@@ -22,7 +22,7 @@ const Hero = () => {
               provident amet tenetur error sequi blanditiis animi.
             </p>
             <div className='mt-[2rem] flex items-center space-x-6'>
-              <a href="/registrarse">
+              <a href="./registrarse">
               <button 
               data-aos="zoom-in" 
               data-aos-delay="1200"

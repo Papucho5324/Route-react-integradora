@@ -1,8 +1,14 @@
+import Footer from '../components/Footer';
 import Signup from '../components/Signup';
 
 const Register = () => {
   return (
-    <Signup/>
+    <div>
+      <Signup/>
+      <Footer/>
+
+    </div>
+    
   )
 }
 
