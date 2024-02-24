@@ -36,10 +36,14 @@ const PricingCard = ({bg,plane,price,features}:Props) => {
                 <p className='text-[17px] text-white opacity-80'> Cobertura 24/7.</p>
             </div>
         </div>
-        <button className='mt-[1.5rem] px-8 py-4 bg-blue-600 text-white block w-[100%] hover:bg-gradient-to-r from-cyan-500 to-blue-500
-        transition-all duration-300'>
+        <a href="/registrarse">
+            <button className='mt-[1.5rem] px-8 py-4 bg-blue-600 text-white block w-[100%] hover:bg-gradient-to-r from-cyan-500 to-blue-500
+            transition-all duration-300'>
             Me Interesa
         </button>
+
+        </a>
+        
     </div>
   );
 };
