@@ -1,4 +1,4 @@
-import Hero from '../components/Hero';
+import Hero from './Hero';
 import Footer from './Footer';
 
 const Home = () => {
