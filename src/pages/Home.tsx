@@ -1,5 +1,5 @@
 import Hero from '../components/Hero';
-import Footer from '../components/Footer';
+import Footer from './Footer';
 
 const Home = () => {
   return (

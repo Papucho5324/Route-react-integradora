@@ -1,5 +1,5 @@
-import Footer from '../components/Footer';
-import Price from '../components/Price';
+import Footer from './Footer';
+import Price from './Price';
 
 const Paquetes = () => {
   return (

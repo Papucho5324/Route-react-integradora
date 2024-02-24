@@ -1,5 +1,5 @@
-import Footer from '../components/Footer';
-import Signup from '../components/Signup';
+import Footer from './Footer';
+import Signup from './Signup';
 
 const Register = () => {
   return (
