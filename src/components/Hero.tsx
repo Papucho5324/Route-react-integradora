@@ -1,4 +1,4 @@
-import React from 'react';
+
 import TypeWriteEffect from './TypeWriteEffect';
 
 const Hero = () => {
