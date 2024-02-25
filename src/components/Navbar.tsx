@@ -6,11 +6,11 @@ const Navbar = () => {
             name:"Home"
         },
         {
-            path:"./paquetes",
+            path:"/#/paquetes",
             name:"Paquetes"
         },
         {
-            path:"./registrarse",
+            path:"/#/registrarse",
             name:"Registrarse"
         },
     ]
