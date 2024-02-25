@@ -12,22 +12,34 @@ const Footer = () => {
                     FullSpeed
                 </div>
                 <h1 className='text-[14px] mt-[0.5rem] text-white opacity-70'>En Xpectra nos encanta tenerte con nosotros, deseamos fielmente ser tu mejor opcion de internet.
-                </h1> 
-                <p className='mt-[1.3rem] text-yellow-300 underline font-semibold'>xpectraintegradora@gmail.com</p>
+                </h1>
+                <a href="mailto:xpectraintegradora@gmail.com">
+                    <p className='mt-[1.3rem] text-yellow-300 underline font-semibold'>xpectraintegradora@gmail.com</p>
+                </a>
+                
             </div>
             <div className='md:mx-auto'>
                 <p className='text-white font-semibold mb-[1.4rem] text-[17px]'>
                     Link Rapido
                 </p>
-                <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
-                    About
-                </p>
-                <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
-                    Paquetes
-                </p>
-                <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
-                    Contact
-                </p>
+                <a href="/">
+                    <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
+                        Home
+                    </p>
+                </a>
+                
+                <a href="/#/paquetes">
+                    <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
+                        Paquetes
+                    </p>
+                </a>
+                
+                <a href="/#/registrarse">
+                    <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
+                        Registrarse
+                    </p>
+                </a>
+                
             </div>
             <div className='lg:mx-auto'>
                 <h1 className='text-white font-semibold mb-[1.4rem] text-[17px]'>
@@ -39,11 +51,15 @@ const Footer = () => {
                 </div>
                 <div className='flex items-center mt-[1rem] space-x-2'>
                     <EnvelopeIcon className="w-[1rem] h-[1rem] text-yellow-300" />
-                    <p className='text-[17px] font-normal text-white opacity-75'>xpectraintegradora@gmail.com</p>
+                    <a href="mailto:xpectraintegradora@gmail.com">
+                        <p className='text-[17px] font-normal text-white opacity-75'>xpectraintegradora@gmail.com</p>
+                    </a>
                 </div>
                 <div className='flex items-center mt-[1rem] space-x-2'>
                     <PhoneIcon className="w-[1rem] h-[1rem] text-yellow-300" />
-                    <p className='text-[17px] font-normal text-white opacity-75'>+52 765 119 6714</p>
+                    <a href="tel:527651196714">
+                        <p className='text-[17px] font-normal text-white opacity-75'>+52 765 119 6714</p>
+                    </a>
                 </div>
             </div>
         </div>
