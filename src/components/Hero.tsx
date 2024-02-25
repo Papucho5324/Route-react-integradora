@@ -15,10 +15,9 @@ const Hero = () => {
             data-aos="fade-up" 
             data-aos-delay="800"
             className='mt-[1,2rem] text-[15px] md:text-[17px] text-[#c4cfde]'>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-              Necessitatibus libero soluta exercitationem iusto atque earum 
-              ipsum assumenda officiis culpa ab odit quod doloribus, 
-              provident amet tenetur error sequi blanditiis animi.
+              Conectarte con el mundo nunca ha sido tan fácil. Con Internet de alta velocidad
+              estamos aquí para ofrecerte una experiencia incomparable. Con atención al cliente excepcional y tecnología de vanguardia, 
+              te invitamos a descubrir un mundo de posibilidades ilimitadas en comunicación con <span>Xpectra</span>.
             </p>
             <div className='mt-[2rem] flex items-center space-x-6'>
               <a href="/#/registrarse">
