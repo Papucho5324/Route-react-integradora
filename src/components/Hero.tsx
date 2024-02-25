@@ -8,7 +8,7 @@ const Hero = () => {
           <div>
             <h1 data-aos="fade-right" className='text-[#c4cfde] mb-[1.3rem]'>Alta velocidad, alta confiabilidad.</h1>
             <div>
-              <h1 data-aos="fade-left" data-aos-delay="400" className='xl:text-[50px] lg:text-[40px] sm:text-[35px] text-[25px] font-semibold leading-[2.6rem] text-white'>Hola, Somos <span className='text-blue-700'>Xpectra</span>.</h1>
+              <h1 data-aos="fade-left" data-aos-delay="400" className='xl:text-[50px] lg:text-[40px] sm:text-[35px] text-[25px] font-semibold leading-[2.6rem] text-white'>Hola, Somos <span className='bg-gradient-to-r from-indigo-500 to-blue-500 bg-clip-text text-transparent'>Xpectra</span>.</h1>
               <TypeWriteEffect />
             </div>
             <p 
