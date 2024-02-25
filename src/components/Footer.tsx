@@ -11,10 +11,7 @@ const Footer = () => {
                     <span className='text-[30px] md:text[40px] text-blue-700'>Xpectra</span>
                     FullSpeed
                 </div>
-                <h1 className='text-[14px] mt-[0.5rem] text-white opacity-70'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                Ratione nihil debitis maxime deleniti recusandae. Perferendis, 
-                libero aut dolorum neque atque magni necessitatibus adipisci fuga 
-                error sunt consequatur saepe nemo quaerat?
+                <h1 className='text-[14px] mt-[0.5rem] text-white opacity-70'>En Xpectra nos encanta tenerte con nosotros, deseamos fielmente ser tu mejor opcion de internet.
                 </h1> 
                 <p className='mt-[1.3rem] text-yellow-300 underline font-semibold'>xpectraintegradora@gmail.com</p>
             </div>
