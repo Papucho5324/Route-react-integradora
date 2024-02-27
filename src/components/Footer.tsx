@@ -13,8 +13,8 @@ const Footer = () => {
                 </div>
                 <h1 className='text-[14px] mt-[0.5rem] text-white opacity-70'>En Xpectra nos encanta tenerte con nosotros, deseamos fielmente ser tu mejor opcion de internet.
                 </h1>
-                <a href="mailto:xpectraintegradora@gmail.com">
-                    <p className='mt-[1.3rem] text-yellow-300 underline font-semibold'>xpectraintegradora@gmail.com</p>
+                <a href="mailto:ventas@xpectra.site">
+                    <p className='mt-[1.3rem] text-yellow-300 underline font-semibold'>ventas@xpectra.site</p>
                 </a>
                 
             </div>
@@ -51,8 +51,8 @@ const Footer = () => {
                 </div>
                 <div className='flex items-center mt-[1rem] space-x-2'>
                     <EnvelopeIcon className="w-[1rem] h-[1rem] text-yellow-300" />
-                    <a href="mailto:xpectraintegradora@gmail.com">
-                        <p className='text-[17px] font-normal text-white opacity-75'>xpectraintegradora@gmail.com</p>
+                    <a href="mailto:ventas@xpectra.site">
+                        <p className='text-[17px] font-normal text-white opacity-75'>ventas@xpectra.site</p>
                     </a>
                 </div>
                 <div className='flex items-center mt-[1rem] space-x-2'>
