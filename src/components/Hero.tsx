@@ -15,8 +15,9 @@ const Hero = () => {
             data-aos="fade-up" 
             data-aos-delay="800"
             className='mt-[1,2rem] text-[15px] md:text-[17px] text-[#c4cfde]'>
-              Conectarte con el mundo nunca ha sido tan fácil. Con Internet de alta velocidad
-              estamos aquí para ofrecerte una experiencia incomparable. Con atención al cliente excepcional y tecnología de vanguardia, 
+              Conectarte con el mundo nunca habia sido tan fácil. <br />
+              Con Internet de alta velocidad
+              estamos aquí para ofrecerte una experiencia incomparable.
               te invitamos a descubrir un mundo de posibilidades ilimitadas en comunicación con <span>Xpectra</span>.
             </p>
             <div className='mt-[2rem] flex items-center space-x-6'>
