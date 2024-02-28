@@ -13,9 +13,6 @@ const Footer = () => {
                 </div>
                 <h1 className='text-[14px] mt-[0.5rem] text-white opacity-70'>En Xpectra nos encanta tenerte con nosotros, deseamos fielmente ser tu mejor opcion de internet.
                 </h1>
-                <a href="mailto:ventas@xpectra.site">
-                    <p className='mt-[1.3rem] text-yellow-300 underline font-semibold'>ventas@xpectra.site</p>
-                </a>
                 
             </div>
             <div className='md:mx-auto'>
