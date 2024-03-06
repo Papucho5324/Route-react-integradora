@@ -9,7 +9,7 @@ const Footer = () => {
             <div>
                 <div className='font-logo text-white text-[18px]'>
                     <span className='text-[30px] md:text[40px] text-blue-700'>Xpectra</span>
-                    FullSpeed
+                     FullSpeed
                 </div>
                 <h1 className='text-[14px] mt-[0.5rem] text-white opacity-70'>En Xpectra nos encanta tenerte con nosotros, deseamos fielmente ser tu mejor opcion de internet.
                 </h1>
@@ -17,7 +17,7 @@ const Footer = () => {
             </div>
             <div className='md:mx-auto'>
                 <p className='text-white font-semibold mb-[1.4rem] text-[17px]'>
-                    Link Rapido
+                    Link R&aacute;pido
                 </p>
                 <a href="/">
                     <p className='text-[15px] text-white opacity-80 mb-[1rem] cursor-pointer hover:text-yellow-300'>
@@ -40,11 +40,11 @@ const Footer = () => {
             </div>
             <div className='lg:mx-auto'>
                 <h1 className='text-white font-semibold mb-[1.4rem] text-[17px]'>
-                    Direccion
+                    Direcci&oacute;n
                 </h1>
                 <div className='flex items-center mt-[1rem] space-x-2'>
                     <MapIcon className="w-[1rem] h-[1rem] text-yellow-300" />
-                    <p className='text-[17px] font-normal text-white opacity-75'>Ciudad Juarez, Chihuahua, Mexico.</p>
+                    <p className='text-[17px] font-normal text-white opacity-75'>Ciudad Ju&aacute;rez, Chihuahua, M&eacute;xico.</p>
                 </div>
                 <div className='flex items-center mt-[1rem] space-x-2'>
                     <EnvelopeIcon className="w-[1rem] h-[1rem] text-yellow-300" />
